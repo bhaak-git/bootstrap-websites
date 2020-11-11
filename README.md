@@ -6,3 +6,7 @@ Non of these websites are still hosted (some of them never were). If you'd like 
 - personal2: A single page version of personal1 which was just a trial of a Bootstrap template.
 - hanze1: A hub of books that I needed while studying HBO-ICT, intended for personal use.
 - hanze2: My very first group project at Hanze University of Applied Sciences, unfortunately the database is missing which the website required to run.
+
+![personal2](/screenshots/personal2.png)
+![personal1](/screenshots/personal1.png)
+![hanze1](/screenshots/hanze1.png)
