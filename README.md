@@ -8,5 +8,7 @@ Non of these websites are still hosted (some of them never were). If you'd like 
 - hanze2: My very first group project at Hanze University of Applied Sciences, unfortunately the database is missing which the website required to run.
 
 ![personal2](/screenshots/personal2.png)
+
 ![personal1](/screenshots/personal1.png)
+
 ![hanze1](/screenshots/hanze1.png)
